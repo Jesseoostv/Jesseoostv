@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Aspiring Cyber Security learner and possible future pentester
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jesseoost.png" alt="TryHackMe">
 <!--
 **Jesseoostv/Jesseoostv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
